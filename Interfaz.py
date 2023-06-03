@@ -28,6 +28,10 @@ Label(miFrame, text="Resolver problema 2", font=("Serif", 14), bg="gray").place(
 
 Label(miFrame, text="Resolver problema 3", font=("Serif", 14), bg="gray").place(x=600,y=150)
 
-Label(miFrame, text="UPIIZ", fg="#5e2129", font=("Serif", 30), bg="gray").place(x=350,y=20)
+Label(miFrame, text="Resolver problema 4", font=("Serif", 14), bg="gray").place(x=50,y=300)
+
+Label(miFrame, text="Resolver problema 5", font=("Serif", 14), bg="gray").place(x=300,y=300)
+
+Label(miFrame, text="Resolver problema 6", font=("Serif", 14), bg="gray").place(x=600,y=300)
 
 raiz.mainloop()
